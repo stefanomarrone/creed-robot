@@ -1,0 +1,14 @@
+C:\Users\user\Dropbox\cognex\barcodereader\BCR\BCR\obj\Debug\BCR.csproj.CoreCompileInputs.cache
+C:\Users\user\Dropbox\cognex\barcodereader\BCR\BCR\bin\Debug\BCR.exe.config
+C:\Users\user\Dropbox\cognex\barcodereader\BCR\BCR\bin\Debug\BCR.exe
+C:\Users\user\Dropbox\cognex\barcodereader\BCR\BCR\bin\Debug\BCR.pdb
+C:\Users\user\Dropbox\cognex\barcodereader\BCR\BCR\bin\Debug\Cognex.DataMan.CogNamer.PC.dll
+C:\Users\user\Dropbox\cognex\barcodereader\BCR\BCR\bin\Debug\Cognex.DataMan.SDK.Discovery.PC.dll
+C:\Users\user\Dropbox\cognex\barcodereader\BCR\BCR\bin\Debug\Cognex.DataMan.SDK.PC.dll
+C:\Users\user\Dropbox\cognex\barcodereader\BCR\BCR\bin\Debug\Cognex.DataMan.SDK.Utils.PC.dll
+C:\Users\user\Dropbox\cognex\barcodereader\BCR\BCR\bin\Debug\Cognex.DataMan.SDK.Discovery.PC.xml
+C:\Users\user\Dropbox\cognex\barcodereader\BCR\BCR\bin\Debug\Cognex.DataMan.SDK.PC.xml
+C:\Users\user\Dropbox\cognex\barcodereader\BCR\BCR\bin\Debug\Cognex.DataMan.SDK.Utils.PC.xml
+C:\Users\user\Dropbox\cognex\barcodereader\BCR\BCR\obj\Debug\BCR.csproj.CopyComplete
+C:\Users\user\Dropbox\cognex\barcodereader\BCR\BCR\obj\Debug\BCR.exe
+C:\Users\user\Dropbox\cognex\barcodereader\BCR\BCR\obj\Debug\BCR.pdb

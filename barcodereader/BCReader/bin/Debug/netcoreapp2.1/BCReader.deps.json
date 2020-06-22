@@ -1,0 +1,81 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "BCReader/1.0.0": {
+        "dependencies": {
+          "Cognex.DataMan.CogNamer.PC": "5.6.0.83",
+          "Cognex.DataMan.SDK.Discovery.PC": "5.6.0.83",
+          "Cognex.DataMan.SDK.PC": "5.6.0.83",
+          "Cognex.DataMan.SDK.Utils.PC": "5.6.0.83"
+        },
+        "runtime": {
+          "BCReader.dll": {}
+        }
+      },
+      "Cognex.DataMan.CogNamer.PC/5.6.0.83": {
+        "runtime": {
+          "Cognex.DataMan.CogNamer.PC.dll": {
+            "assemblyVersion": "5.6.0.83",
+            "fileVersion": "5.6.0.83"
+          }
+        }
+      },
+      "Cognex.DataMan.SDK.Discovery.PC/5.6.0.83": {
+        "runtime": {
+          "Cognex.DataMan.SDK.Discovery.PC.dll": {
+            "assemblyVersion": "5.6.0.83",
+            "fileVersion": "5.6.0.83"
+          }
+        }
+      },
+      "Cognex.DataMan.SDK.PC/5.6.0.83": {
+        "runtime": {
+          "Cognex.DataMan.SDK.PC.dll": {
+            "assemblyVersion": "5.6.0.83",
+            "fileVersion": "5.6.0.83"
+          }
+        }
+      },
+      "Cognex.DataMan.SDK.Utils.PC/5.6.0.83": {
+        "runtime": {
+          "Cognex.DataMan.SDK.Utils.PC.dll": {
+            "assemblyVersion": "5.6.0.83",
+            "fileVersion": "5.6.0.83"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BCReader/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Cognex.DataMan.CogNamer.PC/5.6.0.83": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Cognex.DataMan.SDK.Discovery.PC/5.6.0.83": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Cognex.DataMan.SDK.PC/5.6.0.83": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Cognex.DataMan.SDK.Utils.PC/5.6.0.83": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
